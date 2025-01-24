@@ -1,0 +1,9 @@
+com\model\Book.class
+com\controller\BookController.class
+com\database\DatabaseConnection.class
+com\Main.class
+com\service\BookDatabaseService.class
+com\client\BookClient.class
+com\example\gutendex\GutendexApplication.class
+com\service\DatabaseHelper.class
+com\service\BookService.class

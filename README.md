@@ -103,6 +103,8 @@ EVIDENCIAS DE FUNCIONAMIENTO:
 ![image](https://github.com/user-attachments/assets/87d2cc88-864a-4232-8080-28a0a1c25a55)
 ![image](https://github.com/user-attachments/assets/5603737b-0f74-4f77-9e72-aa867e2aaa34)
 ![image](https://github.com/user-attachments/assets/d08cca78-2d8f-4ec7-9947-959cd6fb95b9)
+![image](https://github.com/user-attachments/assets/2fd43746-0b9c-4235-8ea1-b152a6c92509)
+
 
 
 

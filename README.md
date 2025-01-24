@@ -95,3 +95,17 @@ OkHttp: Consumo de APIs externas.
 Gson y Jackson: Manejo de JSON.
 
 MySQL Connector: Conexión a la base de datos.
+EVIDENCIAS DE FUNCIONAMIENTO:
+
+![image](https://github.com/user-attachments/assets/37c832b2-80d5-495a-afbf-2557047720b1)
+![image](https://github.com/user-attachments/assets/6595e885-5b3d-4e47-8246-a5f82bb0d0cd)
+![image](https://github.com/user-attachments/assets/83f62da8-bddb-40f7-a5f3-0eaad3e2cbd8)
+![image](https://github.com/user-attachments/assets/87d2cc88-864a-4232-8080-28a0a1c25a55)
+![image](https://github.com/user-attachments/assets/5603737b-0f74-4f77-9e72-aa867e2aaa34)
+![image](https://github.com/user-attachments/assets/d08cca78-2d8f-4ec7-9947-959cd6fb95b9)
+
+
+
+
+
+
